@@ -9,3 +9,8 @@ __MACOSX/
 
 # ipynb 
 .ipynb_checkpoints
+
+# dataset
+*.mov
+*.npy
+*.MOV
