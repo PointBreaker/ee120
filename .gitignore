@@ -1,0 +1,11 @@
+# macos files
+__MACOSX/
+*.DS_Store
+*.DS_Store?
+._*
+
+# zip
+*.zip
+
+# ipynb 
+.ipynb_checkpoints
